@@ -38,12 +38,7 @@ With a clear focus on **Backend Development** using **Java** and **Python**, I e
 ## 📚 **Highlighted Projects**
 Here are some of the most relevant projects I have worked on:
 
-- **🌍 Interactive Map Application:** Built an interactive map application where users can see geolocated markers pulled from a **FastAPI backend**. Used **Leaflet** for map rendering and **React** for frontend development.  
-- **⏰ Task Automation with Spring Batch:** Developed an automated task system using **Spring Batch** with jobs scheduled every 5 minutes via a **cron scheduler**.  
-- **📂 Advanced Version Control System:** Applied advanced **Git workflows** using GitHub and GitLab, incorporating proper branching, merge strategies, and code reviews for clean and maintainable repositories.  
-- **🚢 Battleship Console Game:** Developed a **Battleship game** in Python with logic validation, input sanitization, and a dynamic player experience.  
-
-These projects allowed me to deepen my understanding of **clean code principles**, **component reusability**, and **task automation**.
+**Coming soon...**
 
 ---
 
