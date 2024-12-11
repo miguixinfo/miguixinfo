@@ -59,10 +59,8 @@ The world of technology is constantly evolving, and so am I. Here’s what I’m
 
 ## 📫 **Get in Touch**
 I’m always open to new projects, collaborations, or even just a good chat about technology. Feel free to reach out!  
-- 🌐 **Portfolio:** [Link to your personal website or portfolio]  
-- 📧 **Email:** [your.email@example.com]  
-- 💼 **LinkedIn:** [Your LinkedIn profile]  
-- 🐦 **Twitter:** [Your Twitter handle] (optional)  
+- 📧 **Email:** [miguixinfo@gmail.com]  
+- 💼 **LinkedIn:** [http://www.linkedin.com/in/miguel-gómez-gómez-0332a3266]  
 
 ---
 
